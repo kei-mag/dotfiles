@@ -1,2 +1,2 @@
-# dotfiles
-My configuration files for various apps.
+# Configuration file repository
+.XXX files, XXX.rc files, theme files, etc.
